@@ -1,5 +1,5 @@
 # Test1
-**Primeiro Repositorio Aula Git**
+**Primeiro Repositorio Aula GitHub**
 
 Repositorio criado para aula *teste*!
 
